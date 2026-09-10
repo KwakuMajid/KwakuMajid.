@@ -11,7 +11,7 @@
   📍 Based in Ghana &nbsp;|&nbsp; 🟢 Open to internships & entry-level roles
 </p>
 
-IT student currently interning as a Software Engineer at **Engine 8 Studio**. Focused on building solid front-end fundamentals with HTML, CSS, JavaScript and React, while picking up backend basics with Node.js and Python.
+IT student currently interning as a Software Engineer and web developer at **Engine 8 Studio**. Focused on building solid front-end fundamentals with HTML, CSS, JavaScript and React, while picking up backend basics with Node.js and Python.
 
 ---
 
