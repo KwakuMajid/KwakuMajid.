@@ -43,9 +43,9 @@ IT student currently interning as a Software Engineer and web developer at **Eng
 | Internship | Applying what I learn in real projects at Engine 8 Studio |
 
 ---
-
-### 🚀 Projects
 <!--
+### 🚀 Projects
+
 *(Add 2–3 real projects here as you build them — repo link, one-line description.)*
 
 - **[Project Name](#)** — short description of what it does and tech used
