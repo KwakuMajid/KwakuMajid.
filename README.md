@@ -46,10 +46,10 @@ IT student currently interning as a Software Engineer and web developer at **Eng
 
 ### 🚀 Projects
 
-*(Add 2–3 real projects here as you build them — repo link, one-line description.)*
+//*(Add 2–3 real projects here as you build them — repo link, one-line description.)*//
 
-- **[Project Name](#)** — short description of what it does and tech used
-- **[Project Name](#)** — short description of what it does and tech used
+//- **[Project Name](#)** — short description of what it does and tech used//
+//- **[Project Name](#)** — short description of what it does and tech used//
 
 ---
 
